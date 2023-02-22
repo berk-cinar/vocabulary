@@ -43,7 +43,7 @@ const Home = () => {
          <button className='w-full h-full rounded-3xl  bg-cyan-200' onClick={generateNumber}>Berkcim bir kelime alabilir miyim?</button> <br></br>
          </div>
          
-      <span className='flex rounded-3xl  text-center bg-red-100 font-bold'>
+      <span className='flex rounded-3xl  text-center bg-red-900 font-bold'>
         <div className='m-auto rounded-3xl  text-center bg-red-100 font-bold'>
      Kelimen {word[number].name} sevgilim :)
         </div>
