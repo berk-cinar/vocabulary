@@ -44,7 +44,7 @@ const Home = () => {
          </div>
 
          
-      <span className='flex rounded-3xl  text-center bg-red-400 font-bold'>
+      <span className='flex rounded-3xl  text-center bg-red-200 font-bold'>
         <div className='m-auto rounded-3xl  text-center bg-red-100 font-bold'>
      Kelimen {word[number].name} sevgilim :)
         </div>
