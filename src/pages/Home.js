@@ -40,7 +40,7 @@ const Home = () => {
   return (
     <div className='py-52 px-16 h-[calc(100vh-60px)] grid grid-rows-3 gap-4 bg-purple-200'>
          <div className=' rounded-3xl  bg-cyan-200'>
-         <button className='w-full h-full rounded-3xl  bg-cyan-200' onClick={generateNumber}>Berkcim bir kelime alabilir miyim?</button> <br></br>
+         <button className='w-full h-full rounded-3xl  bg-cyan-300' onClick={generateNumber}>Berkcim bir kelime alabilir miyim?</button> <br></br>
          </div>
 
          
