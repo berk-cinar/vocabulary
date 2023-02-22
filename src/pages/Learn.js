@@ -56,6 +56,8 @@ console.log(number); */
   const ChangeValue =(event) => {
     setWordState(event.target.value)
     setAnlam(event.target.anlam)
+    console.log(wordState);
+    console.log(anlam);
   }
 
 
